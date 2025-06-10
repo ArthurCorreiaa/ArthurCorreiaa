@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Hi!%20I'm%20Arthur&section=header&textBg=false&animation=fadeIn&fontColor=FFFFFF&fontSize=50)
+![Banner](https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Hi!%20I'm%20Arthur&section=header&textBg=false&animation=fadeIn&fontColor=FFA500&fontSize=50)
 <h2>🧑‍💻 About Me</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-correia-b7b883222/)
